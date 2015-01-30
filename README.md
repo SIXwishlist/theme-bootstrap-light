@@ -1,5 +1,5 @@
-Theme Boostrap Light
-====================
+Theme Bootstrap Light
+=====================
 
 - Author: [Silvus](https://github.com/silvus)
 - Compatibility: Miniflux 1.1.6
